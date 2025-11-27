@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-I’m a recent computer science master graduate from ETH Zurich with a keen interest in 3D computer vision and machine learning.
-
-In my recent projects, I focused on single-image calibration and 3D reconstruction using Structure-from-Motion. 
-
 <!--
 **veichta/veichta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
